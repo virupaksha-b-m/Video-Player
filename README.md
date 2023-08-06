@@ -11,6 +11,9 @@ A fun way to improve this project would be to add a button to extend the functio
 2. Passing functions as props
 3. Lifting state up in React
 
+# link
+https://codesandbox.io/s/github/virupaksha-b-m/Video-Player
+
 
 # final result
 ![image](https://github.com/virupaksha-b-m/Video-Player/assets/91652877/3b2d80fc-96fe-47a0-acec-68746ff68069)
