@@ -1,0 +1,11 @@
+html,
+body {
+  text-align: center;
+  background-color: rgb(4, 23, 23);
+  color: white;
+}
+
+.video-inputs {
+  display: inline-flex;
+  margin: 10px;
+}
